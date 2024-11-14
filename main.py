@@ -18,7 +18,7 @@ botao = tk.Button(root,
                   height=1, 
                   width=10, 
                   text="I Love 💖 You",
-                  command=lambda:iLoveYou(iloveYou))
+                  command=lambda:ecaaaa(ecaaaa))
 botao.pack()
 
 root.mainloop()
